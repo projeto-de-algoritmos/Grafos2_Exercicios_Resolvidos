@@ -9,11 +9,14 @@
 | 19/0103302  |  Bernardo Chaves Pissutti |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Os exercicios resolvidos neste projeto foram escolhidos pensando em abranger todo o conteúdo ensinado nas aulas de Grafos 2. Os conteúdos abordados foram:
+* Dijkstra
+* Prim
+* Kruskal
+* Union-find
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
-
+![Alt text](assets/exercicio1.png)
 ## Instalação 
 **Linguagem**: xxxxxx<br>
 **Framework**: (caso exista)<br>
