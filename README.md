@@ -17,6 +17,11 @@ Os exercicios resolvidos neste projeto foram escolhidos pensando em abranger tod
 
 ## Screenshots
 ![Alt text](assets/exercicio1.png)
+
+![Alt text](assets/exercicio2.png)
+
+![Alt text](assets/exercicio3.png)
+
 ## Instalação 
 **Linguagem**: xxxxxx<br>
 **Framework**: (caso exista)<br>
