@@ -13,26 +13,24 @@ Os exercicios resolvidos neste projeto foram escolhidos pensando em abranger tod
 * Dijkstra
 * Prim
 * Kruskal
-* Union-find
 
 ## Screenshots
-![Alt text](assets/exercicio1.png)
+![Exercicio 1](assets/exercicio1.png)
 
-![Alt text](assets/exercicio2.png)
+![Exercicio 2](assets/exercicio2.png)
 
-![Alt text](assets/exercicio3.png)
+![Exercicio 3](assets/exercicio3.png)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python3<br>
+O único requisito para executar os scripts é ter o python3.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Ne trabalho foram resolvidos execicios do [leetcode](https://leetcode.com/). Para avaliar o código o avaliador pode, tanto executar o código na propria máquina, quanto abrir o exercicio relativo ao código à ser corrigido e testa-lo na própria plataforma do leetcode, o link para cada exercicio está disponível no seu respectivo readme.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+## Vídeo
 
+O vídeo está na pasta assets/video/
 
 
 
